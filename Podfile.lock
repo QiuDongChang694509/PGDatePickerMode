@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - PGDatePicker (2.4.0):
+    - PGPickerView
+  - PGPickerView (1.2.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6)
+  - PGDatePicker
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - PGDatePicker
+    - PGPickerView
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  PGDatePicker: 2817e0b0b9c4e6237c96cec974617230c82621d1
+  PGPickerView: 8fbbf63d0404065a43a495a0115d339455e0f819
+
+PODFILE CHECKSUM: 28bcce5aa1fe9457f7422a794c1c304d119f581e
+
+COCOAPODS: 1.5.0
