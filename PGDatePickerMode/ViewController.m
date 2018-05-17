@@ -25,7 +25,7 @@
     [self.view addSubview:AddBut];
     [AddBut addTarget:self action:@selector(TimeButAction) forControlEvents:UIControlEventTouchUpInside];
     
-//    。。。。。。。
+//    。。。。。。。测试
     
 }
 
